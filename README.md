@@ -1,6 +1,6 @@
 # Trabajo Practico Nº1 - Practicas con Javascript 📚 
 
-## Own project . Rollin Code's homework to learn about Javascript .
+## Own project . Rolling Code's homework to learn about Javascript .
 
 ## How to clone this repository:
 1. open the git bash console or open the console inside of your favourite IDE .
