@@ -8,5 +8,5 @@
 
 ## Please . If you like this project give me a star to know it 🌟🤩 
 ## Thanks!! 
-### Author :
+### Author 🙋‍♂️
 [Mauricio Soria](https://github.com/MauricioSor)
