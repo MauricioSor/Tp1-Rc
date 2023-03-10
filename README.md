@@ -1,4 +1,4 @@
-# Trabajo Practico Nº1 - Practicas con Javascript 📚 
+# Trabajo Practico Nº1 - Practicas con Javascript ( Practicas con variables )📚 
 
 ## Own project . Rolling Code's homework to learn about Javascript .
 
